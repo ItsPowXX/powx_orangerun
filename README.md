@@ -8,7 +8,7 @@
 
 > If you want to contribute (like translation) you can make a pull request or open a new issue
 
-Video : https://streamable.com/tfmih
+Video : https://streamable.com/68vg5r
 
 Support :
 
